@@ -1,0 +1,53 @@
+# ---- Python ----
+__pycache__
+.pyc
+.pyo
+.pyd
+.pkl
+.egg
+.egg-info
+dist
+build
+
+# ---- Jupyter ----
+.ipynb_checkpoints
+.ipynb_checkpoints
+
+# ---- Data files ----
+.csv
+.tsv
+.xls
+.xlsx
+.parquet
+.h5
+.db
+.sqlite
+.sqlite3
+.feather
+.sav
+.dta
+
+# (If you want small datasets tracked, remove above lines)
+
+# ---- Logs & temp ----
+.log
+.out
+.tmp
+.temp
+.bak
+
+# ---- OS  Editor files ----
+.DS_Store
+Thumbs.db
+.swp
+.swo
+
+# ---- Virtual environment ----
+.venv
+venv
+env
+ENV
+
+# ---- VSCode  IDE ----
+.vscode
+.idea
