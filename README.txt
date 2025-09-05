@@ -1,3 +1,5 @@
+This is not complete project is under development.
+
 # Steam_Sales_Dataset
 This dataset provides a detailed historical record of Steam game sales, capturing discounts, prices, and availability across Windows, Linux, and macOS platforms. Updated weekly, it allows tracking of game prices and discount trends over time.
 
